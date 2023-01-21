@@ -1,0 +1,39 @@
+.mainform{
+           width: 350px;
+           height: 450px;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           position: relative;
+           margin-left: 500px;
+           margin-top: 40px;
+           background-color: white;
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       border: 1px solid rgb(159, 158, 158);
+       
+}
+.mainform2{
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+
+}
+.mainform2>li{
+    list-style: none;
+}
+  .placebtn{
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: white;
+    color: #0d0b0b;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    width: 120px;
+    height: 40px;
+    
+    font-weight: 40px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 palevioletred, 0 6px 20px 0 palevioletred;
+}

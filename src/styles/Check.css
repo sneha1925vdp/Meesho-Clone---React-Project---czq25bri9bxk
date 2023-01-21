@@ -1,0 +1,53 @@
+.msgcontainer{
+       width: 700px;
+       height: 400px;
+       background-color:white;
+        margin-left: 300px;
+       justify-content: center;
+       align-items: center;
+       margin-top: 60px;
+       border-radius: 9px;
+       border: none;
+       
+  padding: 10px;
+  box-shadow: 5px 10px 20px 10px pink inset;
+}
+.yourh1{
+    margin-top: 50px;
+}
+       
+.msgcontainer>h1 {
+    color: rgb(244, 58, 89);
+    justify-content: center;
+       align-items: center;
+       margin-top: 30px;
+       display: flex;
+       flex-direction: column;
+       font-style: italic;
+       font-size: 35px;
+       font-weight: 100px;
+      
+  text-shadow: 2px 2px 4px #000000;
+}
+.orderimg{
+             margin-left: 220px;
+             margin-top: 20px;
+             height: 200px;
+             width: 250px;
+}
+.btnhome{
+           border: none;
+        border-radius: 10px;
+        padding: 8px;
+        background-color: white;
+        color: #0d0b0b;
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+        width: 120px;
+        height: 40px;
+        margin-left: 600px;
+        font-weight: 40px;
+        margin-top: 20px;
+        box-shadow: 0 4px 8px 0 palevioletred, 0 6px 20px 0 palevioletred;
+}
