@@ -32,7 +32,7 @@ const Items = () => {
                 <option>PhonePe</option>
                 <option>Cash on Delivery</option>
             </select></li>
-            <li><h3>Order Total : 2000Rs</h3></li>
+            
             <li>
                 <NavLink to="/checkout" className="cart">
                 <div><button className='placebtn'>Place order</button></div>
